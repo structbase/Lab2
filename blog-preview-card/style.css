@@ -46,3 +46,31 @@ body {
     margin: 0;         
 }
 
+h1 {
+    color: #111111;
+    font-size: 24px;
+    /* font-weight: 800; */
+    padding:0;
+}
+h1:hover{
+    color: #f4d04e;
+    cursor: pointer;
+}
+
+.card-details p {
+    font-size: 17px;
+    color: #6b6b6b;
+    padding: none;
+}
+
+.user-profile {
+    display: flex;
+    align-items: center;
+    padding: none;
+}
+
+.profile-img {
+    width: 32px;
+    height: 32px;
+    padding-right: 12px;
+}
