@@ -1,11 +1,3 @@
----
-
-# Frontend Mentor Solutions
-
-This repository contains my solutions to two Frontend Mentor challenges: **Blog Preview Card** and **QR Code Component**. Each project is built using HTML, CSS, and custom fonts, following the designs provided by Frontend Mentor.
-
----
-
 ## Projects
 
 ### 1. Blog Preview Card
