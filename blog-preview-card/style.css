@@ -5,7 +5,20 @@ body {
     padding: 0;
 }
 
-body{
-    background-color:#F4D04E ;
-
+@font-face {
+    font-family: "Figtree";
+    src: url("./assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
 }
+
+body {
+    background-color: #f4d04e;
+    font-family: "Figtree", sans-serif; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
