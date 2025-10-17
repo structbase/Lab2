@@ -22,3 +22,27 @@ body {
     justify-content: center;
 }
 
+.card {
+    background-color: #ffffff;
+    width: 384px;
+    height: 522px;
+    border-radius: 20px;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+.main-img {
+    border-radius: 20px;
+}
+
+.card-info h3 {
+    display: inline-block;
+    background-color: #f4d04e;
+    color: #111111;
+    padding: 2px 8px;
+    border-radius: 4px;
+}
+.card-info p {
+    margin: 0;         
+}
+
